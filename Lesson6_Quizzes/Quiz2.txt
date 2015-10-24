@@ -8,7 +8,8 @@ Questions:
 
 1.  Name two methods you can use to add a node to the DOM tree, and explain the difference between them.
 
-
+appendChild()
+ insertBefore()
 
 
 
